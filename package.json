@@ -40,7 +40,7 @@
     "encodeurl": "^1.0.2",
     "escape-string-regexp": "^1.0.5",
     "fake-useragent": "^1.0.1",
-    "file-type": "^16.5.3",
+    "file-type": "^16.5.4",
     "fluent-ffmpeg": "^2.1.2",
     "fs-extra": "^10.0.0",
     "g-i-s": "^2.1.6",
