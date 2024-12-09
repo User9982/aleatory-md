@@ -27,7 +27,7 @@
     "@hapi/boom": "^9.1.4",
     "async": "^3.2.3",
     "awesome-phonenumber": "^2.69.0",
-    "axios": "^0.21.1",
+    "axios": "^1.7.8",
     "cfonts": "^2.10.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.10",
